@@ -402,3 +402,24 @@ header .nav .caret:hover {
 #our-partners{
 	padding:0px;
 }
+
+#myModal{
+	vertical-align: middle;
+	height: 100%; 
+}
+
+
+.recent-project:hover{
+	cursor: pointer;
+}
+
+
+.bottom-block .slick-prev
+{
+    left:5px;
+}
+
+.bottom-block .slick-next
+{
+    right:5px;
+}
