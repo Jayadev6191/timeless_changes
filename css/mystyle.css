@@ -39,6 +39,13 @@
 
 .client-box {
 	height: 200px;
+	padding:0px;
+}
+
+.client-box img{
+	position:static;
+	width:200px;
+	height:96px;
 }
 
 header .navbar-default {
@@ -370,4 +377,28 @@ header .nav .caret:hover {
 
 #bottom-showmore:hover {
 	color: #77C4D3;
+}
+
+.slicker{
+	text-align:center;
+	background-color:royalblue;
+	width:740px;
+	margin:20px auto;
+}
+
+.slicker h3{
+	padding:20px;
+}
+
+.slick-prev,.slick-prev:hover{
+	background-color:gray;
+}
+
+.slick-next,.slick-next:hover{
+	background-color:gray;
+}
+
+
+#our-partners{
+	padding:0px;
 }
